@@ -20,7 +20,7 @@ dependencies = [
     "matplotlib",
     "plotly",
     "kaleido",
-    "sectionproperties>=3.7.0",
+    "sectionproperties>=3.5.0",
     "concreteproperties>=0.6.4",
     "pycba>=0.5.2",
     "PyNiteFEA>=0.0.98",
