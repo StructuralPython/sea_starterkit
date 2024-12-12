@@ -27,6 +27,7 @@ dependencies = [
     "scipy",
     "handcalcs",
     "more-itertools",
+    "pynite_plotly",
     "forallpeople",
     "pytest",
     "rich",
