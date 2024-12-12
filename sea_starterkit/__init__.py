@@ -4,4 +4,4 @@ in preparation for the StructuralPython "Python for Structural Engineers" ("PfSE
 Accelerated
 course.
 """
-__version__ = "0.1.0"
+__version__ = "0.2.0"
